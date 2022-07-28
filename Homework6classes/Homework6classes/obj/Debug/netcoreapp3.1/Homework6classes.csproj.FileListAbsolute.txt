@@ -1,0 +1,14 @@
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.exe
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.deps.json
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.runtimeconfig.json
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.runtimeconfig.dev.json
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.dll
+D:\Project Courses C#\Homework6classes\Homework6classes\bin\Debug\netcoreapp3.1\Homework6classes.pdb
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.csproj.AssemblyReference.cache
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.AssemblyInfoInputs.cache
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.AssemblyInfo.cs
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.dll
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.pdb
+D:\Project Courses C#\Homework6classes\Homework6classes\obj\Debug\netcoreapp3.1\Homework6classes.genruntimeconfig.cache
